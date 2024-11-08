@@ -1,0 +1,44 @@
+{
+  "title": "Generated Exam",
+  "questions": [
+    {
+      "id": 0,
+      "question": "What is needed as a source of energy for vital activities of the body?",
+      "options": [
+        "Carbohydrates",
+        "Proteins",
+        "Fats",
+        "Iron"
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Hemoglobin (Hb) is a protein that is found in the _____ of the blood.",
+      "options": [
+        "Plasma",
+        "Red blood cells",
+        "Platelets",
+        "White blood cells"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "What is essential for the formation of hemoglobin?",
+      "options": [
+        "Iron",
+        "Calcium",
+        "Vitamin C",
+        "Magnesium"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "What is considered a good source of iodine?",
+      "options": [
+        "Fruits",
+        "Sea foods(C) Grains",
+        "Vegetables"
+      ]
+    }
+  ]
+}
